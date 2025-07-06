@@ -16,7 +16,7 @@ A beautiful, well-organized collection of **developer tool cheat sheets** — id
 | Tool / Platform        | Cheat Sheet Link |
 |------------------------|------------------|
 | 🐙 **Git**             | [Git_Cheat_Sheet_Clean.md](Git_Cheat_Sheet_Clean.md) |
-| 🐳 **Docker**          | [Docker_Cheat_Sheet_Clean.md](Docker_Cheat_Sheet_Clean.md) |
+| 🐳 **Docker**          | [Docker_Cheat_Sheet_Clean.md](Docker_Cheat_Sheet.md) |
 | 🧪 **Coming Soon**     | Linux, Conda, Python, VSCode, NPM, Kubernetes, and more! |
 
 ---
