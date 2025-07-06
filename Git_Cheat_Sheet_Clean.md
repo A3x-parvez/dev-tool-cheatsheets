@@ -1,4 +1,11 @@
 # 🧠 Git Commands Cheat Sheet
+---
+
+### 👤 Author: Rijwanool Karim  
+🔗 Linkdin - [Rijwanool karim](https://www.linkedin.com/in/rijwanool-karim)  
+💻 Github - [A3x-parvez](https://github.com/rijwanoolkarim)
+
+---
 
 ## Getting Started
 
