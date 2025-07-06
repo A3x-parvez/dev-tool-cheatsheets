@@ -77,3 +77,7 @@
 - **`git stash list`**: Show stashed changes.
 - **`git stash apply`**: Apply latest stash.
 - **`git stash pop`**: Apply and remove stash.
+
+---
+
+
