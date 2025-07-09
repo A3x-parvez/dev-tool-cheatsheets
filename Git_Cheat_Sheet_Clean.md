@@ -26,6 +26,7 @@
 
 - **`git add <filename>`**: Stage a specific file for commit.
 - **`git add .`**: Stage all files for commit.
+- **`git rm --cached <filename>`**: Use to untrack a tracked file, for example if you want to send a tracked file into `.gitignore` then you should use it to remove tracking first.
 - **`git commit -m "msg"`**: Commit staged files with a message.
 
 ## .gitignore Usage
