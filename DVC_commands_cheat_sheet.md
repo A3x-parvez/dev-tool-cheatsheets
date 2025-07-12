@@ -108,6 +108,12 @@
 
 ---
 
+### 👤 Author: Rijwanool Karim  
+🔗 Linkdin - [Rijwanool karim](https://www.linkedin.com/in/rijwanool-karim)  
+💻 Github - [A3x-parvez](https://github.com/rijwanoolkarim)
+
+---
+
 > 🔁 This cheat sheet is part of my personal DVC learning series. Feel free to fork, modify, and use it in your own ML projects!
 
 ---
